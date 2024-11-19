@@ -1,0 +1,17 @@
+.sort-options {
+    margin-bottom: 20px;
+}
+
+.sort-options select {
+    padding: 8px 12px;
+    font-size: 14px;
+    border: 1px solid #e1e8ed;
+    border-radius: 21px;
+    background-color: #ffffff;
+    color: #14171a;
+}
+
+.sort-options select:focus {
+    outline: none;
+    border-color: #1da1f2;
+}

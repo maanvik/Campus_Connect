@@ -1,0 +1,39 @@
+.post-card {
+  padding: 15px;
+  background-color: #ffffff;
+  transition: background-color 0.2s ease;
+}
+
+.post-card:hover {
+  background-color: #f5f8fa;
+}
+
+.post-title {
+  font-size: 18px;
+  font-weight: bold;
+  color: #14171a;
+  margin-bottom: 5px;
+}
+
+.post-meta {
+  font-size: 14px;
+  color: #657786;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.post-date, .post-upvotes {
+  color: #657786;
+}
+
+.post-link {
+  color: #1da1f2;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.post-link:hover {
+  text-decoration: underline;
+}

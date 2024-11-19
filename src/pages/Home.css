@@ -1,0 +1,18 @@
+.home-container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.loading-message,
+.error-message {
+    text-align: center;
+    color: #657786;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.error-message {
+    color: #e0245e;
+}

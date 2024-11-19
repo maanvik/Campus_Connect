@@ -1,0 +1,99 @@
+.post-details {
+   width: 50rem;
+   max-width: 100%;
+   margin: 20px auto;
+   padding: 15px;
+   background-color: #ffffff;
+   border-radius: 8px;
+   border: 1px solid #e1e8ed;
+}
+
+.back-button {
+   background-color: transparent;
+   color: #1da1f2;
+   border: none;
+   font-size: 1em;
+   cursor: pointer;
+   margin-bottom: 15px;
+}
+
+.back-button:hover {
+   text-decoration: underline;
+}
+
+.post-title {
+   font-size: 1.8em;
+   margin-bottom: 10px;
+   color: #14171a;
+}
+
+.post-content {
+   font-size: 1em;
+   line-height: 1.5;
+   color: #14171a;
+}
+
+.post-date {
+   font-size: 0.9em;
+   color: #657786;
+}
+
+.post-upvotes {
+   font-size: 1em;
+   color: #657786;
+}
+
+.upvote-button,
+.edit-button,
+.delete-button {
+   border-radius: 9999px;
+   border: 1px solid #1da1f2;
+   padding: 8px 16px;
+   margin-top: 10px;
+   margin-right: 10px;
+   cursor: pointer;
+   font-size: 0.9em;
+   font-weight: bold;
+}
+
+.upvote-button {
+   background-color: #1da1f2;
+   color: white;
+}
+
+.upvote-button:hover {
+   background-color: #1a91da;
+}
+
+.edit-button {
+   background-color: white;
+   color: #1da1f2;
+}
+
+.edit-button:hover {
+   background-color: #e8f5fe;
+}
+
+.delete-button {
+   background-color: white;
+   color: #e0245e;
+   border-color: #e0245e;
+}
+
+.delete-button:hover {
+   background-color: #fde8ee;
+}
+
+.post-image {
+   max-width: 100%;
+   border-radius: 8px;
+   margin-top: 10px;
+}
+
+.post-header {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+

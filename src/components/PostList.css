@@ -1,0 +1,10 @@
+.post-list {
+    background-color: #ffffff;
+    border: 1px solid #e1e8ed;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.post-list > *:not(:last-child) {
+    border-bottom: 1px solid #e1e8ed;
+}
