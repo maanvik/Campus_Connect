@@ -1,37 +1,46 @@
 # Web Development Final Project - *Campus Connect*
 
-Submitted by: **Maanvik Thodupunuri**
+*Campus Connect: Connecting the Academic Community*
 
-This web app: The Campus Connect app is designed for students, alumni, and professors to stay connected. It serves as a platform for sharing events, blogs, and articles related to academics or other topics of interest. 
+Campus Connect is a collaborative platform designed for students, alumni, and professors to stay connected. It enables users to share events, blogs, and articles related to academics and various topics of interest, fostering a vibrant community where knowledge and experiences can be exchanged. This version captures the essence of the app while remaining brief and to the point.
 
-Time spent: **13** hours spent in total
+## 🚀 Campus Connect: Features Overview
 
-## Required Features
+### 📝 Post Creation & Management
+- **Intuitive Post Creation Form**
+  - Create posts with comprehensive details
+  - Add title, optional text content
+  - Upload images via external URL or local machine
+  - Seamless content sharing experience
 
-The following **required** functionality is completed:
+### 🏠 Home Feed Capabilities
+- **Dynamic Post Display**
+  - Comprehensive post preview
+  - Show creation time, title, upvote count
+  - Clickable posts for detailed view
+  - Responsive and clean interface
 
-- [x] **A create form that allows the user to create posts**
-- [x] **Posts have a title and optionally additional textual content and/or an image added as an external image URL**
-- [x] **A home feed displaying previously created posts**
-- [x] **By default, the time created, title, and number of upvotes for each post is shown on the feed**
-- [x] **Clicking on a post shall direct the user to a new page for the selected post**
-- [x] **Users can sort posts by either their created time or upvotes count**
-- [x] **Users can search for posts by title**
-- [x] **A separate post page for each created post, where any additional information is shown is linked whenever a user clicks a post**
-- [x] **Users can leave comments underneath a post on the post's separate page**
-- [x] **Each post should have an upvote button on the post's page. Each click increases its upvotes count by one and users can upvote any number of times**
-- [x] **A previously created post can be edited or deleted from its post page**
+### 🔍 Advanced Interaction Features
+- **Smart Sorting & Search**
+  - Sort posts by creation time
+  - Sort posts by upvote count
+  - Powerful title-based search functionality
+  - Enhance user navigation experience
 
-The following **optional** features are implemented:
+### 💬 Engagement Tools
+- **Interactive Post Interactions**
+  - Dedicated post detail pages
+  - Unlimited upvote functionality
+  - Comment section for community engagement
+  - Real-time interaction tracking
 
-- [ ] Users can only edit and deleted posts or delete comments by entering the secret key, which is set by the user during post creation
-- [ ] Upon launching the web app, the user is assigned a random user ID. It will be associated with all posts and comments that they make and displayed on them.
-- [ ] Users can repost a previous post by referencing its post ID. On the post page of the new post, the referenced post is displayed and linked, creating a thread
-- [ ] Users can customize the interface of the web app
-- [ ] Users can share and view web videos
-- [ ] Users can set flags while creating a post. Then users can filter posts by flags on the home feed.
-- [x] Users can upload images directly from their local machine as an image file
-- [x] Display a loading animation whenever data is being fetched
+### 📊 Post Management
+- **Flexible Content Control**
+  - Edit existing posts
+  - Delete posts as needed
+  - Maintain content accuracy
+  - User-friendly modification options
+
 
 ## Video Walkthrough
 
@@ -43,11 +52,6 @@ Here's a walkthrough of implemented user stories:
 GIF created with ScreenToGif  
 
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
-Integrating Search, Sort features and working on allowing users to upload images as it involves creating bucket and applying policies is little bit challenging
 
 ## License
 
