@@ -29,7 +29,7 @@ Campus Connect is a collaborative platform designed for students, alumni, and pr
 
 ### 💬 Engagement Tools
 - **Interactive Post Interactions**
-  - Dedicated post detail pages
+  - Dedicated post-detail pages
   - Unlimited upvote functionality
   - Comment section for community engagement
   - Real-time interaction tracking
